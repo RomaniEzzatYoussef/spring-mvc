@@ -20,7 +20,11 @@
 
 <h2>Spring MVC Demo - Home Page</h2>
 
-<a href="helloWorldForm">Plain Hello World</a>
+<a href="hello/helloWorldForm">Plain Hello World</a>
+
+<br><br>
+
+<a href="student/studentForm">Student Page</a>
 
 <br><br>
 

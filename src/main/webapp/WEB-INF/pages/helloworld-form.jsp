@@ -12,7 +12,7 @@
 </head>
 <body>
 <%--<p>Hello World Form</p>--%>
-    <form action="nameUpperCase" method="get">
+    <form action="usingParamAnnotation" method="get">
         <input type="text" name="studentName" placeholder="What's your name?"/>
         <input type="submit"/>
     </form>

@@ -39,6 +39,13 @@
             <version>${annotation-api.version}</version>
         </dependency>
 
+        <!-- jstl -->
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>jstl</artifactId>
+            <version>1.2</version>
+        </dependency>
+
 <!--        &lt;!&ndash; lombok&ndash;&gt;-->
 <!--        <dependency>-->
 <!--            <groupId>org.projectlomboc</groupId>-->
