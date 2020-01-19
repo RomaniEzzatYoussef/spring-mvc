@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 @RequestMapping("/student")
 public class StudentController {
 
-    @RequestMapping("/studentForm")
-    public String studentForm(Model model) {
+    @RequestMapping("/showStudentForm")
+    public String showStudentForm(Model model) {
 
         // create a student object
         Student student = new Student();
